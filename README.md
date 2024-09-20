@@ -1,4 +1,4 @@
-### EX4 Implementation of Cluster and Visitor Segmentation for Navigation patterns
+### EX:4 Implementation of Cluster and Visitor Segmentation for Navigation patterns
 ### DATE: 20/09/24
 ### AIM: To implement Cluster and Visitor Segmentation for Navigation patterns in Python.
 ### Description:
